@@ -5,7 +5,7 @@ import (
   "fmt"
   "io"
   "time"
-  "util"
+  "github.com/mashenjun/gohessian/src/util"
 )
 
 /*

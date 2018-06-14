@@ -6,7 +6,7 @@ import (
   "runtime"
   "time"
   "unicode/utf8"
-  "util"
+  "github.com/mashenjun/gohessian/src/util"
 )
 
 /*

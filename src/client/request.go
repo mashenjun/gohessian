@@ -3,11 +3,11 @@ package client
 import (
   "bytes"
   "fmt"
-  "gohessian"
+  "github.com/mashenjun/gohessian/src/util"
   "io"
   "io/ioutil"
   "net/http"
-  "util"
+  "github.com/mashenjun/gohessian/src/gohessian"
 )
 
 type hessian_request struct {

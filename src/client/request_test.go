@@ -2,7 +2,7 @@ package client
 
 import (
   "bytes"
-  "gohessian"
+  "github.com/mashenjun/gohessian/src/gohessian"
   "log"
   "testing"
 )
